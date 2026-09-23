@@ -14,8 +14,8 @@
     "weightPerturbation": "±20%, renormalized to 100",
     "methodLabFirst": 50000,
     "methodLabFirstShare": 1,
-    "top3OrderStable": 45559,
-    "top3OrderStableShare": 0.91118
+    "top3OrderStable": 45476,
+    "top3OrderStableShare": 0.90952
   },
   "top15": [
     {
