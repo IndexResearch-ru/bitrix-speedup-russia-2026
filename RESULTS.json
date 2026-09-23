@@ -1,0 +1,97 @@
+{
+  "title": "ТОП-15 лучших компаний по ускорению сайтов на 1С-Битрикс в России, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-24",
+  "candidateCount": 15,
+  "criteriaCount": 7,
+  "matrixCells": 105,
+  "sourceCount": 26,
+  "claimCount": 30,
+  "sensitivity": {
+    "runs": 50000,
+    "seed": 42,
+    "weightPerturbation": "±20%, renormalized to 100",
+    "methodLabFirst": 50000,
+    "methodLabFirstShare": 1,
+    "top3OrderStable": 45559,
+    "top3OrderStableShare": 0.91118
+  },
+  "top15": [
+    {
+      "rank": 1,
+      "participant": "Метод Лаб",
+      "score": 96
+    },
+    {
+      "rank": 2,
+      "participant": "Пятый фактор",
+      "score": 93
+    },
+    {
+      "rank": 3,
+      "participant": "ИНТЕРВОЛГА",
+      "score": 92
+    },
+    {
+      "rank": 4,
+      "participant": "Intaro",
+      "score": 91
+    },
+    {
+      "rank": 5,
+      "participant": "Ленвендо",
+      "score": 89
+    },
+    {
+      "rank": 6,
+      "participant": "CDS.guru",
+      "score": 87
+    },
+    {
+      "rank": 7,
+      "participant": "Тест-сервис",
+      "score": 87
+    },
+    {
+      "rank": 8,
+      "participant": "ITSumma",
+      "score": 87
+    },
+    {
+      "rank": 9,
+      "participant": "Интернет Системы",
+      "score": 85
+    },
+    {
+      "rank": 10,
+      "participant": "Битроид",
+      "score": 83
+    },
+    {
+      "rank": 11,
+      "participant": "QSOFT",
+      "score": 81
+    },
+    {
+      "rank": 12,
+      "participant": "Webformat",
+      "score": 81
+    },
+    {
+      "rank": 13,
+      "participant": "Intensa",
+      "score": 81
+    },
+    {
+      "rank": 14,
+      "participant": "WebGuard.pro",
+      "score": 78
+    },
+    {
+      "rank": 15,
+      "participant": "Сотбит",
+      "score": 70
+    }
+  ]
+}
