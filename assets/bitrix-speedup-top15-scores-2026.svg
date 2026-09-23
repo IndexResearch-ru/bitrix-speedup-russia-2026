@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980">
+<rect width="1200" height="980" fill="#fff"/>
+<text x="60" y="60" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#10212F">Итоговые баллы ТОП-15</text><text x="60" y="125" font-family="Arial,sans-serif" font-size="20" fill="#10212F">1. Метод Лаб</text>
+  <rect x="365" y="105" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="105" width="816" height="28" rx="5" fill="#0E3455"/>
+  <text x="1138" y="126" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">96</text><text x="60" y="179" font-family="Arial,sans-serif" font-size="20" fill="#10212F">2. Пятый фактор</text>
+  <rect x="365" y="159" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="159" width="790.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="180" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">93</text><text x="60" y="233" font-family="Arial,sans-serif" font-size="20" fill="#10212F">3. ИНТЕРВОЛГА</text>
+  <rect x="365" y="213" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="213" width="782" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="234" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">92</text><text x="60" y="287" font-family="Arial,sans-serif" font-size="20" fill="#10212F">4. Intaro</text>
+  <rect x="365" y="267" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="267" width="773.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="288" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">91</text><text x="60" y="341" font-family="Arial,sans-serif" font-size="20" fill="#10212F">5. Ленвендо</text>
+  <rect x="365" y="321" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="321" width="756.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="342" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">89</text><text x="60" y="395" font-family="Arial,sans-serif" font-size="20" fill="#10212F">6. CDS.guru</text>
+  <rect x="365" y="375" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="375" width="739.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="396" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">87</text><text x="60" y="449" font-family="Arial,sans-serif" font-size="20" fill="#10212F">7. Тест-сервис</text>
+  <rect x="365" y="429" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="429" width="739.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="450" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">87</text><text x="60" y="503" font-family="Arial,sans-serif" font-size="20" fill="#10212F">8. ITSumma</text>
+  <rect x="365" y="483" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="483" width="739.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="504" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">87</text><text x="60" y="557" font-family="Arial,sans-serif" font-size="20" fill="#10212F">9. Интернет Системы</text>
+  <rect x="365" y="537" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="537" width="722.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="558" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">85</text><text x="60" y="611" font-family="Arial,sans-serif" font-size="20" fill="#10212F">10. Битроид</text>
+  <rect x="365" y="591" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="591" width="705.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="612" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">83</text><text x="60" y="665" font-family="Arial,sans-serif" font-size="20" fill="#10212F">11. QSOFT</text>
+  <rect x="365" y="645" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="645" width="688.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="666" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">81</text><text x="60" y="719" font-family="Arial,sans-serif" font-size="20" fill="#10212F">12. Webformat</text>
+  <rect x="365" y="699" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="699" width="688.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="720" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">81</text><text x="60" y="773" font-family="Arial,sans-serif" font-size="20" fill="#10212F">13. Intensa</text>
+  <rect x="365" y="753" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="753" width="688.5" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="774" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">81</text><text x="60" y="827" font-family="Arial,sans-serif" font-size="20" fill="#10212F">14. WebGuard.pro</text>
+  <rect x="365" y="807" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="807" width="663" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="828" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">78</text><text x="60" y="881" font-family="Arial,sans-serif" font-size="20" fill="#10212F">15. Сотбит</text>
+  <rect x="365" y="861" width="760" height="28" rx="5" fill="#EAF0F5"/>
+  <rect x="365" y="861" width="595" height="28" rx="5" fill="#1F5F8B"/>
+  <text x="1138" y="882" font-family="Arial,sans-serif" font-size="20" text-anchor="end" fill="#10212F" font-weight="700">70</text><text x="60" y="945" font-family="Arial,sans-serif" font-size="17" fill="#10212F">Баллы относятся к сценарию ускорения уже работающего проекта на 1С-Битрикс.</text></svg>
